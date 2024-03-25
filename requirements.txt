@@ -1,2 +1,8 @@
 langchain
 langgraph
+llama-cpp-python
+llama-index
+langchain-community
+langchainhub
+gpt4all
+chromadb
